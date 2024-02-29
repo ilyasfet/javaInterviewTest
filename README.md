@@ -7,5 +7,5 @@ Entrée : Une liste d'objets, chaque objet ayant un poids et une valeur, et une 
 Sortie : La valeur totale maximale que le voleur peut obtenir.
 
 Example :
-Entrée : Objets = [{"nom": "Guitar", "poids": 7, "valeur": 800}, {"nom": "Iron", "poids": 6, "valeur": 500}, {"nom": "Tea pot", "poids": 3, "valeur": 300}], Capacité du sac = 30
+Entrée : Objets = [{"nom": "Guitar", "poids": 7, "valeur": 800}, {"nom": "Iron", "poids": 6, "valeur": 500}, {"nom": "Tea pot", "poids": 3, "valeur": 300}], Capacité du sac = 10
 Sortie : 1000 (Le voleur peut prendre la Guitar et le Tea pot, totalisant 1000 de valeur)
